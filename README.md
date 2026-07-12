@@ -8,13 +8,13 @@
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-222?style=flat&logo=github)](https://YOUR_USERNAME.github.io/YOUR_REPO)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-222?style=flat&logo=github)](https://2420090109.github.io/AICTE-IBMxEDUNET_INTERNSHIP_AI/)
 
 ---
 
 ## 🌐 Live Demo
 
-**[View Project Website →](https://YOUR_USERNAME.github.io/YOUR_REPO)**
+**[View Project Website →](https://2420090109.github.io/AICTE-IBMxEDUNET_INTERNSHIP_AI/)**
 
 ---
 
